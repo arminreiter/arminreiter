@@ -18,6 +18,7 @@
 - 🔺 [Avalanche Cascade](https://cascade.team1.network): A Unified Avalanche Onboarding Experience
 - 🔺 [Avalanche Team1](https://team.network): Avalanche Team1 Website
   - 🔺 [Team1 Events](https://events.team1.network): Avalanche Team1 Events Platform
+- 🔺 [AVAX Toolkit](https://avaxtoolkit.com): A local-first, open-source toolkit for the Avalanche ecosystem
 - 🎪 Luma Sync: Synchronize Data from multiple luma.com accounts into a db for analytics
 - 🧙🏻‍♂️ [GNOME Extension Named Workspaces](https://extensions.gnome.org/extension/9318/named-workspaces/): An extension that allows to name gnome workspaces => [Repo](https://github.com/a31labs/gnome-named-workspaces)
 - 💎 [GEMx](https://github.com/emgemx): Tokenized gemstones such as Emeralds on blockchain => [Token Repo](https://github.com/EmGEMx/gemx-token)
