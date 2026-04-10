@@ -23,6 +23,7 @@
 - 🧙🏻‍♂️ [GNOME Extension Named Workspaces](https://extensions.gnome.org/extension/9318/named-workspaces/): An extension that allows to name gnome workspaces => [Repo](https://github.com/a31labs/gnome-named-workspaces)
 - 💎 [GEMx](https://github.com/emgemx): Tokenized gemstones such as Emeralds on blockchain => [Token Repo](https://github.com/EmGEMx/gemx-token)
 - 🏡 [Universal Real Estate Token](https://github.com/a31labs/universal-realestate-token): Upgradeable ERC-20 token with roles for minting, burning, pausing, and blocklisting.
+- 🏁 [LMU Analyzer](https://lmu.a31.at): Le Mans Ultimate Race Data Analyzer => [Repo](https://github.com/arminreiter/lmu-analyzer)
 - 🛜 [FeedReader](https://www.nuget.org/packages/CodeHollow.FeedReader): C# RSS/ATOM Feed Reader Library => [Repo](https://github.com/arminreiter/FeedReader)
 
 ### Some stats...
