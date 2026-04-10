@@ -16,7 +16,7 @@
 ### Some Projects
 
 - 🔺 [Avalanche Cascade](https://cascade.team1.network): A Unified Avalanche Onboarding Experience
-- 🔺 [Avalanche Team1](https://team.network): Avalanche Team1 Website
+- 🔺 [Avalanche Team1](https://team1.network): Avalanche Team1 Website
   - 🔺 [Team1 Events](https://events.team1.network): Avalanche Team1 Events Platform
 - 🔺 [AVAX Toolkit](https://avaxtoolkit.com): A local-first, open-source toolkit for the Avalanche ecosystem [Repo](https://github.com/arminreiter/avaxtoolkit)
 - 🎪 Luma Sync: Synchronize Data from multiple luma.com accounts into a db for analytics
