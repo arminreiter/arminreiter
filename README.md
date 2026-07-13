@@ -21,6 +21,7 @@
   - 🔺 [Team1 Events](https://events.team1.network): Avalanche Team1 Events Platform
 - 🔺 [AVAX Toolkit](https://avaxtoolkit.com): A local-first, open-source toolkit for the Avalanche ecosystem [Repo](https://github.com/arminreiter/avaxtoolkit)
 - 🎪 Luma Sync: Synchronize Data from multiple luma.com accounts into a db for analytics
+- 📩 [MailDotNull](https://github.com/maildotnull/maildotnull): Local mail catcher for development that supports SMTP, SendGrid, MailJet, Brevo, and many more.
 - 🧙🏻‍♂️ [GNOME Extension Named Workspaces](https://extensions.gnome.org/extension/9318/named-workspaces/): An extension that allows to name gnome workspaces => [Repo](https://github.com/a31labs/gnome-named-workspaces)
 - 💎 [GEMx](https://github.com/emgemx): Tokenized gemstones such as Emeralds on blockchain => [Token Repo](https://github.com/EmGEMx/gemx-token)
 - 🏡 [Universal Real Estate Token](https://github.com/a31labs/universal-realestate-token): Upgradeable ERC-20 token with roles for minting, burning, pausing, and blocklisting.
